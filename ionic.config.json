@@ -1,0 +1,8 @@
+{
+  "name": "Tarefas",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue",
+  "id": "90b28d38"
+}
